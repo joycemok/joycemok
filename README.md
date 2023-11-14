@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello Friends 👋
+
+Hi I'm Joyce Mok! 
+
 
 <!--
 **joycemok/joycemok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

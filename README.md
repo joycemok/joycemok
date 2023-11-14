@@ -1,6 +1,6 @@
 # Hello Friends 👋
 
-### 👀Introducing Me
+### 👀 Introducing Me
 Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using data analytic techniques. With an interdisciplinary background in product design and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast.
 
 I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I am based in San Francisco, CA. 

@@ -1,9 +1,9 @@
 # Hello Friends 👋
 
-### 👀 Introducing Me
+### 👀Introducing Me
 Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using data analytic techniques. With an interdisciplinary background in product design and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast.
 
-I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I am based in the Bay Area, specifically Daly City, CA. 
+I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I am based in San Francisco, CA. 
 
 ### 📁 Projects
 Interested in what I do? Here is the link to my portfolio.
@@ -43,7 +43,7 @@ Interested in what I do? Here is the link to my portfolio.
 - Java
 
 ### 😎 Interests
-Professionally I want to work with data that allows me to make a positive societal impact. Personally as a sports and music fan, I enjoy working on data related to fields like pop culture, sports, music, and product.
+Professionally, I want to work with data that allows me to make a positive societal impact. I'm also interested in extracting findings from business related data to better improve workflow and productivity. Personally, I enjoy working on data related to pop culture, sports, music, and product.
 
 ### 📫 Connect With Me
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joycemok8/)

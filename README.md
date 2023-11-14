@@ -5,27 +5,30 @@ Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories u
 
 I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I am based in the Bay Area, specifically Daly City, CA. 
 
-## Expertise
+### 📁 Projects
+Interested in what I do? Here is the link to my portfolio.
+
+### 🌟 Expertise
 - Preparing and cleaning datasets for data analysis using Python and R
 - Querying data using SQL
 - Creating predictive models
 - Crafting insightful reports by interweaving data visualizations and data analyses in a clear and logical format
 
-## Skills
+### 🤔 Skills
 - Data Visualizations
 - Data Modelling
 - Data Cleaning and Exploratory Data Analysis
 - Data Analysis and Reporting
 - Database Querying
   
-## Data-Related Tools
+### 📈 Data-Related Tools
 - Python 
 - R
 - Tableau 
 - SQL 
 - Microsoft Excel, Word, Powerpoint
 
-## Additional Tools
+### 🛠️ Additional Tools
 **Design:**
 - Figma
 - Adobe XD
@@ -34,15 +37,16 @@ I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science
 - Miro
 - Trello
   
-**Programming Languages:**
+**Other Programming Languages:**
 - HTML/CSS
 - C++
 - Java
 
-## Interests
+### 😎 Interests
+Professionally I want to work with data that allows me to make a positive societal impact. Personally as a sports and music fan, I enjoy working on data related to fields like pop culture, sports, music, and product.
 
-## Connect With Me
-
+### 📫 Connect With Me
+Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joycemok8/)
 
 <!--
 **joycemok/joycemok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

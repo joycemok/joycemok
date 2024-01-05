@@ -3,10 +3,10 @@
 ### 👀 Introducing Me
 Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using data analytic techniques. With an interdisciplinary background in product design and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast.
 
-I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I am based in San Francisco, CA. 
+I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I'm based in San Francisco, CA. 
 
 ### 📁 Projects
-Interested in what I do? Here is the link to my portfolio.
+Interested in what I do? Here is the link to my [portfolio](https://github.com/joycemok/portfolio).
 
 ### 🌟 Expertise
 - Preparing and cleaning datasets for data analysis using Python and R

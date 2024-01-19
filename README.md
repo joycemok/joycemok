@@ -25,7 +25,7 @@ Interested in what I do? Here is the link to my [portfolio](https://github.com/j
 - Python 
 - R
 - Tableau 
-- SQL 
+- SQL (MySQL, PostgreSQL, Microsoft SQL server)
 - Microsoft Excel, Word, Powerpoint
 
 ### 🛠️ Additional Tools

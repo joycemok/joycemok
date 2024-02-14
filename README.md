@@ -46,7 +46,7 @@ Interested in what I do? Here is the link to my [portfolio](https://github.com/j
 Professionally, I want to work with data that allows me to make a positive societal impact. I'm also interested in extracting findings from business related data to better improve workflow and productivity. Personally, I enjoy working on data related to pop culture, sports, music, and product.
 
 ### 📫 Connect With Me
-Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joycemok8/). If you are also interested in my product design work click [here](https://www.joycemok.com/).
+Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joycemok8/).
 
 <!--
 **joycemok/joycemok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

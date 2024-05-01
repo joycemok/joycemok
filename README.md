@@ -1,7 +1,7 @@
 # Hello Friends 👋
 
 ### 👀 Introducing Me
-Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using data analytic techniques. With an multi-disciplinary background in user experience research and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast. I use my knowledge of user experience principles to tell data-driven stories that are human-centered and impact-driven.
+Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using a human-centered approach. With an multi-disciplinary background in user experience design and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast. I mesh my knowledge of user experience design principles to tell data-driven stories that are human-centered and impact-driven.
 
 I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I'm based in San Francisco, CA. 
 

@@ -1,64 +1,23 @@
-# Hello Friends 👋
+# 👋 Hi, I'm Joyce!
+📣 Data Analyst telling insightful stories with a human-centered approach <br/>
+🎓 Studied Statistics and Cognitive Science at University of California, Los Angeles (UCLA) <br/>
+💼 Check out my [projects](https://github.com/joycemok/portfolio) and [case studies](https://medium.com/@joycemok8) <br/>
+🏀 In my free time I love working on data involving sports, music, and pop culture <br/>
+🐢 My spirit animal is a sea turtle
 
-### 👀 Introducing Me
-Hi, I’m Joyce! I’m a data analyst interested in telling insightful stories using a human-centered approach. With an multi-disciplinary background in user experience design and statistics, I am interested in making data findings accessible to everyone from industry professionals to the average tech enthusiast. I mesh my knowledge of user experience design principles to tell data-driven stories that are human-centered and impact-driven.
+# 💻 Tech Stack
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) <br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-I'm a recent graduate from UCLA with dual degrees in Statistics and Data Science and Cognitive Science (With Specialization in Computing). Currently I'm based in San Francisco, CA. 
-
-### 📁 Projects
-Interested in what I do? Here is the link to my [portfolio](https://github.com/joycemok/portfolio). 
-
-### 🌟 Expertise
-- Preparing and cleaning datasets for data analysis using Python and R
-- Querying data using SQL
-- Creating predictive models
-- Crafting insightful reports by interweaving data visualizations and data analyses in a clear and logical format
-
-### 🤔 Skills
-- Data Visualizations
-- Data Modelling
-- Data Cleaning and Exploratory Data Analysis
-- Data Analysis and Reporting
-- Database Querying
-  
-### 📈 Data-Related Tools
-- Python 
-- R
-- Tableau 
-- SQL (MySQL, PostgreSQL, Microsoft SQL server)
-- Microsoft Excel, Word, Powerpoint
-
-### 🛠️ Additional Tools
-**Design:**
-- Figma
-- Adobe XD
-  
-**Workflow:**
-- Miro
-- Trello
-  
-**Other Programming Languages:**
-- HTML/CSS
-- C++
-- Java
-
-### 😎 Interests
-Professionally, I want to work with data that allows me to make a positive societal impact. I'm also interested in extracting findings from business related data to better improve workflow and productivity. Personally, I enjoy working on data related to pop culture, sports, music, and product. 
-
-### 📫 Connect With Me
+# 📫 Connect With Me
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/joycemok8/). 
-
-<!--
-**joycemok/joycemok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

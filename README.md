@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Joyce!
-📣 Data Analyst telling insightful stories with a human-centered approach <br/>
+📣 Data Analyst telling data-driven stories with a human-centered approach <br/>
 🎓 Studied Statistics and Cognitive Science at University of California, Los Angeles (UCLA) <br/>
 💼 Check out my [projects](https://github.com/joycemok/portfolio) and [case studies](https://medium.com/@joycemok8) <br/>
 🏀 In my free time I love working on data involving sports, music, and pop culture <br/>

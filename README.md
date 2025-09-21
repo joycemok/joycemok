@@ -2,7 +2,7 @@
 📣 Data Analyst telling data-driven stories with a human-centered approach <br/>
 🎓 Studied Statistics & Data Science & Cognitive Science at UCLA <br/>
 💼 Check out my [case studies](https://medium.com/@joycemok8), [data visualizations](https://public.tableau.com/app/profile/joyce.mok/vizzes), and [project code](https://github.com/joycemok/portfolio) <br/>
-🏀 In my free time I love working on data involving sports, music, and pop culture <br/>
+🏀 In my free time I love going to concerts, watching basketball (Go Warriors and Valkyries!), and exploring new coffee shops <br/>
 🐢 My spirit animal is a sea turtle!
 
 # 💻 Tech Stack 
